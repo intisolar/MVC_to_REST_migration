@@ -1,6 +1,6 @@
 # MVC_to_REST_migration
 
-Technologies used:
+# Technologies used:
 -Java 8
 -Maven
 -Spring boot
@@ -9,12 +9,12 @@ Technologies used:
 -Bootstrap 5
 -React js
 
-##ENG
+# ENG
 This is part of an educational project, a series of lessons in which I teach students how to migrate from MVC to API REST applying clean code and several structure improvements. The Project is separated into different versions related to the stages we are on every lesson. Continue reading for more information about the different versions.
-##ESP
+# ESP
 Esto es parte de un proyecto educativo donde los estudiantes aprenden a migrar un proyecto de MVC con tymeleaf a una API REST aplicando código limpio y mejoras estructurales. El proyecto está separado en diferentes versiones que corresponden a cada una de las clases. Continuá leyendo para entender qué aplicamos en cada versión.
 
-El contenido se divide en:
+# El contenido se divide en:
 
 CAMBIO ESTRUCTURAL: Es el contenido donde nos desprendemos totalmente del modelo anterior.
 MEJORA DE CÓDIGO: Implementación de herramientas que van de la mano con los principios de “código limpio” y SOLID, además de otras ventajas.
@@ -38,7 +38,7 @@ Pasamos las vistas HTML a componentes de React. Aplicamos el paquete react-route
 Implementamos validaciones en los DTOs de request y los controladores, excepciones personalizadas y controladores que devuelven respuestas HTTP de error aplicados a todo el proyecto a través de las anotaciones @ControllerAdvice y @ExceptionHandler.
 
 
-Próximos pasos...
+# Próximos pasos...
 
 V6: Seguridad con JWT
 
