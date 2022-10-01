@@ -1,0 +1,5 @@
+com\bd\empleados\model\entity\Empleado.class
+com\bd\empleados\service\EmpleadoService.class
+com\bd\empleados\EmpleadosApplication.class
+com\bd\empleados\repository\EmpleadoRepository.class
+com\bd\empleados\controller\MainController.class
