@@ -12,7 +12,7 @@
 # ENG
 This is part of an educational project, a series of lessons in which I teach students how to migrate from MVC to API REST applying clean code and several structure improvements. The Project is separated into different versions related to the stages we are on every lesson. Continue reading for more information about the different versions.
 # ESP
-Esto es parte de un proyecto educativo donde los estudiantes aprenden a migrar un proyecto de MVC con tymeleaf a una API REST aplicando código limpio y mejoras estructurales. El proyecto está separado en diferentes versiones que corresponden a cada una de las clases. Continuá leyendo para entender qué aplicamos en cada versión.
+Esto es parte de un proyecto educativo donde los estudiantes aprenden a migrar un proyecto de MVC con Thymeleaf a una API REST aplicando código limpio y mejoras estructurales. El proyecto está separado en diferentes versiones que corresponden a cada una de las clases. Continuá leyendo para entender qué aplicamos en cada versión.
 
 # El contenido se divide en:
 
